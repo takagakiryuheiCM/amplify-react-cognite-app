@@ -14,7 +14,7 @@ export function UserInfo({ userInfo, signOut }: TProps): React.ReactElement {
 
   return (
     <Box
-      height="60vh"
+      height="70vh"
       display="flex"
       flexDirection="column"
       justifyContent="center"
